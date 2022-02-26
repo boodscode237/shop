@@ -9,6 +9,10 @@ For the front end I used:
 >Hook,
 >Redux.
 
+For the backend I used:
+Firebase(authentification and database)
+Hosted on Heroku
+
 
 https://user-images.githubusercontent.com/65740750/155842875-3c43a955-8baa-48bd-a771-d9dfda77ac47.mp4
 
